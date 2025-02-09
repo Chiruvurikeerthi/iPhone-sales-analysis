@@ -19,6 +19,12 @@ This project analyzes the sales of iPhones in India using Python. The dataset co
 ## Dataset:
 The dataset used in this project is apple_products.csv, which contains information about iPhone sales on Flipkart.
 
+## Requirements
+- Python 3.x
+- pandas
+- numpy
+- plotly
+  
 ## How to Run:
 1. Clone the repository.
 2. Install the required libraries:
